@@ -1,0 +1,25 @@
+header{
+    background-color: bisque;
+    padding: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    border: dotted 5px red;
+    margin-left: -2%;
+    margin-top: -2%;
+    margin-right: -2%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1 {
+    color:red;
+    align-self: center;
+}
+
+h2{
+    align-self: center;
+}
